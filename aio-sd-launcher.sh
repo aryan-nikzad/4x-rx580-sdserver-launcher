@@ -19,7 +19,7 @@
 # USER CONFIG
 # ==========================================================
 
-CONFIG_FILE="./sd-models-pro.conf"
+CONFIG_FILE="./models/sd-models.conf"
 
 # sd-server binary location
 SD_SERVER="./sd-master-de298c2-bin-Linux-Ubuntu-24.04-x86_64-vulkan/sd-server"
